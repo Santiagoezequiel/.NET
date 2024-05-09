@@ -7,7 +7,6 @@ namespace PrimerScript
 
         static void Main(string[] args)
         {
-
             bool reiniciar = true;
 
             while (reiniciar)
@@ -21,93 +20,66 @@ namespace PrimerScript
 
                 // Preguntamos las opciones
                 string input = Console.ReadLine();
-                int opcion = int.Parse(input);
+                int opcion;
 
-                if (!int.TryParse(input, out opcion) || opcion < 1 || opcion > 5 )
+                if (!int.TryParse(input, out opcion) || opcion < 1 || opcion > 5)
                 {
-                    Console.WriteLine("Ingrese una opcion valida");
-                    continue;
+                    Console.WriteLine("Opción inválida. Por favor, ingrese un número del 1 al 5.");
+                    continue; // Reiniciar el bucle
                 }
 
-                // Ingresamos primer valor
-
-                Console.WriteLine("Ingrese el primer numero");
+                Console.WriteLine("Ingrese primer numero"); // Pregunta primer numero
                 int num1;
 
                 if (!int.TryParse(Console.ReadLine(), out num1))
                 {
-                    Console.WriteLine("Ingrese un numero valido");
-                    continue;
+                    Console.WriteLine("Número inválido. Por favor, ingrese un número entero válido.");
+                    continue; // Reiniciar el bucle
                 }
 
-                // Ingresamos segundo valor
-
-                Console.WriteLine("Ingrese el segundo numero");
+                Console.WriteLine("Ingrese segundo numero");
                 int num2;
 
                 if (!int.TryParse(Console.ReadLine(), out num2))
                 {
-                    Console.WriteLine("Ingrese un numero valido");
-                    continue;
+                    Console.WriteLine("Número inválido. Por favor, ingrese un número entero válido.");
+                    continue; // Reiniciar el bucle
                 }
 
-                // Operaciones
-
-                switch( opcion )
+                switch (opcion)
                 {
                     case 1:
-                        {
-                            Console.WriteLine("El resultado es " + (num1 + num2));
-                            break;
-                        }
+                        Console.WriteLine("El resultado es " + (num1 + num2));
+                        break;
                     case 2:
-                        {
-                            Console.WriteLine("El resultado es " + (num1 - num2));
-                            break;
-                        }
+                        Console.WriteLine("El resultado es " + (num1 - num2));
+                        break;
                     case 3:
-                        {
-                            Console.WriteLine("El resultado es " + (num1 * num2));
-                            break;
-                        }
+                        Console.WriteLine("El resultado es " + (num1 * num2));
+                        break;
                     case 4:
+                        if (num2 == 0)
                         {
-                            if (num2 == 0)
-                            { 
-                                Console.WriteLine("No se puede dividir entre 0");
-                                continue;
-                            }
-                            else
-                            {
+                            Console.WriteLine("No se puede dividir por cero.");
+                        }
+                        else
+                        {
                             Console.WriteLine("El resultado es " + (num1 / num2));
-                            break;
-                            }
                         }
+                        break;
                     case 5:
-                        {
-                            Console.WriteLine("El resultado es " + (num1 % num2));
-                            break;
-                        }
+                        Console.WriteLine("El resultado es " + (num1 % num2));
+                        break;
+                    default:
+                        Console.WriteLine("Opción inválida.");
+                        break;
                 }
 
-                // Preguntamos si desea realizar otra operacion
-                Console.WriteLine("¿Desea realizar otra operacion?(S/N)");
+                // Preguntar si desea reiniciar
+                Console.WriteLine("¿Desea realizar otra operación? (S/N)");
                 string reiniciarInput = Console.ReadLine().Trim().ToUpper();
-
                 reiniciar = reiniciarInput == "S";
-
-
             }
-
-
-
-
-
-
-
-
-
-
         }
     }
 }

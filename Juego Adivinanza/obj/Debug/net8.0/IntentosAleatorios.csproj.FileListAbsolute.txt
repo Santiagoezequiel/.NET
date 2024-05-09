@@ -1,0 +1,14 @@
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\bin\Debug\net8.0\IntentosAleatorios.exe
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\bin\Debug\net8.0\IntentosAleatorios.deps.json
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\bin\Debug\net8.0\IntentosAleatorios.runtimeconfig.json
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\bin\Debug\net8.0\IntentosAleatorios.dll
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\bin\Debug\net8.0\IntentosAleatorios.pdb
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\obj\Debug\net8.0\IntentosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\obj\Debug\net8.0\IntentosAleatorios.AssemblyInfoInputs.cache
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\obj\Debug\net8.0\IntentosAleatorios.AssemblyInfo.cs
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\obj\Debug\net8.0\IntentosAleatorios.csproj.CoreCompileInputs.cache
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\obj\Debug\net8.0\IntentosAleatorios.dll
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\obj\Debug\net8.0\refint\IntentosAleatorios.dll
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\obj\Debug\net8.0\IntentosAleatorios.pdb
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\obj\Debug\net8.0\IntentosAleatorios.genruntimeconfig.cache
+D:\VS Proyects\IntentosAleatorios\IntentosAleatorios\obj\Debug\net8.0\ref\IntentosAleatorios.dll

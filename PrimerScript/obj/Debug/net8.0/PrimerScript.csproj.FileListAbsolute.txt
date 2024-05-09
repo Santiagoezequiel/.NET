@@ -1,0 +1,15 @@
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\bin\Debug\net8.0\PrimerScript.exe
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\bin\Debug\net8.0\PrimerScript.deps.json
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\bin\Debug\net8.0\PrimerScript.runtimeconfig.json
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\bin\Debug\net8.0\PrimerScript.dll
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\bin\Debug\net8.0\PrimerScript.pdb
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\PrimerScript.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\PrimerScript.AssemblyInfoInputs.cache
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\PrimerScript.AssemblyInfo.cs
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\PrimerScript.csproj.CoreCompileInputs.cache
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\PrimerScript.dll
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\refint\PrimerScript.dll
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\PrimerScript.pdb
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\PrimerScript.genruntimeconfig.cache
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\ref\PrimerScript.dll
+D:\VS Proyects\PrimerScriptSolution\PrimerScript\obj\Debug\net8.0\PrimerScript.sourcelink.json
