@@ -1,0 +1,14 @@
+D:\VS Proyects\Clase2\bin\Debug\net8.0\Clase2.exe
+D:\VS Proyects\Clase2\bin\Debug\net8.0\Clase2.deps.json
+D:\VS Proyects\Clase2\bin\Debug\net8.0\Clase2.runtimeconfig.json
+D:\VS Proyects\Clase2\bin\Debug\net8.0\Clase2.dll
+D:\VS Proyects\Clase2\bin\Debug\net8.0\Clase2.pdb
+D:\VS Proyects\Clase2\obj\Debug\net8.0\Clase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Proyects\Clase2\obj\Debug\net8.0\Clase2.AssemblyInfoInputs.cache
+D:\VS Proyects\Clase2\obj\Debug\net8.0\Clase2.AssemblyInfo.cs
+D:\VS Proyects\Clase2\obj\Debug\net8.0\Clase2.csproj.CoreCompileInputs.cache
+D:\VS Proyects\Clase2\obj\Debug\net8.0\Clase2.dll
+D:\VS Proyects\Clase2\obj\Debug\net8.0\refint\Clase2.dll
+D:\VS Proyects\Clase2\obj\Debug\net8.0\Clase2.pdb
+D:\VS Proyects\Clase2\obj\Debug\net8.0\Clase2.genruntimeconfig.cache
+D:\VS Proyects\Clase2\obj\Debug\net8.0\ref\Clase2.dll
