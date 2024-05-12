@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntentosAleatorios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+803644a7fc3df309ae9009a28dd82ff8a2b543c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntentosAleatorios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntentosAleatorios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

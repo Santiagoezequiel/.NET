@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimerScript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebac2d67e382d34871779823bf1994919f536394")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+803644a7fc3df309ae9009a28dd82ff8a2b543c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimerScript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimerScript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

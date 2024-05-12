@@ -1,0 +1,15 @@
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\POO.sourcelink.json
+D:\VS Proyects\PrimerScriptSolution\POO\bin\Debug\net8.0\POO.exe
+D:\VS Proyects\PrimerScriptSolution\POO\bin\Debug\net8.0\POO.deps.json
+D:\VS Proyects\PrimerScriptSolution\POO\bin\Debug\net8.0\POO.runtimeconfig.json
+D:\VS Proyects\PrimerScriptSolution\POO\bin\Debug\net8.0\POO.dll
+D:\VS Proyects\PrimerScriptSolution\POO\bin\Debug\net8.0\POO.pdb
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\POO.dll
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\refint\POO.dll
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\POO.pdb
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\POO.genruntimeconfig.cache
+D:\VS Proyects\PrimerScriptSolution\POO\obj\Debug\net8.0\ref\POO.dll
