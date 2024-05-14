@@ -1,0 +1,15 @@
+D:\VS Proyects\PrimerScriptSolution\Constructores\bin\Debug\net8.0\Constructores.exe
+D:\VS Proyects\PrimerScriptSolution\Constructores\bin\Debug\net8.0\Constructores.deps.json
+D:\VS Proyects\PrimerScriptSolution\Constructores\bin\Debug\net8.0\Constructores.runtimeconfig.json
+D:\VS Proyects\PrimerScriptSolution\Constructores\bin\Debug\net8.0\Constructores.dll
+D:\VS Proyects\PrimerScriptSolution\Constructores\bin\Debug\net8.0\Constructores.pdb
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\Constructores.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\Constructores.AssemblyInfoInputs.cache
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\Constructores.AssemblyInfo.cs
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\Constructores.csproj.CoreCompileInputs.cache
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\Constructores.sourcelink.json
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\Constructores.dll
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\refint\Constructores.dll
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\Constructores.pdb
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\Constructores.genruntimeconfig.cache
+D:\VS Proyects\PrimerScriptSolution\Constructores\obj\Debug\net8.0\ref\Constructores.dll

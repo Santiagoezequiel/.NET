@@ -1,0 +1,15 @@
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\GetYSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\GetYSet.AssemblyInfoInputs.cache
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\GetYSet.AssemblyInfo.cs
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\GetYSet.csproj.CoreCompileInputs.cache
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\GetYSet.sourcelink.json
+D:\VS Proyects\PrimerScriptSolution\GetYSet\bin\Debug\net8.0\GetYSet.exe
+D:\VS Proyects\PrimerScriptSolution\GetYSet\bin\Debug\net8.0\GetYSet.deps.json
+D:\VS Proyects\PrimerScriptSolution\GetYSet\bin\Debug\net8.0\GetYSet.runtimeconfig.json
+D:\VS Proyects\PrimerScriptSolution\GetYSet\bin\Debug\net8.0\GetYSet.dll
+D:\VS Proyects\PrimerScriptSolution\GetYSet\bin\Debug\net8.0\GetYSet.pdb
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\GetYSet.dll
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\refint\GetYSet.dll
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\GetYSet.pdb
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\GetYSet.genruntimeconfig.cache
+D:\VS Proyects\PrimerScriptSolution\GetYSet\obj\Debug\net8.0\ref\GetYSet.dll
