@@ -78,8 +78,3 @@ Pero con los metodos se puede, puedo tener varios metodos dentro de una clase co
 
 Siempre revizar el tipo que debe devolver el metodo, es la principal causa de errores.
 
-Levantar de la silla
-Sentarse en la silla
-Ir a la puerta
-Abrir la puerta
-cerrar la puerta
